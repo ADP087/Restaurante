@@ -24,3 +24,9 @@ main {
     height: 90%;
     width: 100%;
 }
+
+form {
+    width: 50%;
+    height: 90%;
+    padding: 30px;
+}
